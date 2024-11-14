@@ -1,6 +1,6 @@
 
 
-***AIMonk Object Detection API***
+***Object Detection API***
 ===
 
 This API allows you to perform object detection on images.  
